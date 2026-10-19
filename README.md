@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Krishna Agrawal — Python, C++, data analysis and machine learning" width="100%">
+  <img src="assets/profile-header.svg" alt="Krishna Agrawal — Aspiring AI Engineer, first-year BTech AI student at SRM University–AP" width="100%">
 </p>
 
 <p align="center">
@@ -10,9 +10,11 @@
 
 ## Hi, I'm Krishna
 
-I build projects with Python and practice data structures and algorithms in C++. My work explores how data moves through an application: from input and preprocessing to a model, a visualization, or a result someone can inspect.
+**Aspiring AI Engineer · First-year BTech in Artificial Intelligence · SRM University–AP**
 
-I learn by implementing the steps, keeping them visible, and improving the project as I understand its tradeoffs.
+My current programming foundation is **Python and C++**. I practice data structures and algorithms in C++ and use Python to explore machine learning, computer vision, and applications that bring models into a usable workflow.
+
+My goal is to become an **AI engineer**: understand how models work, build applications around them, and learn to evaluate and improve the complete system. I am early in that journey, and these repositories document what I have implemented and what I am still learning.
 
 ## Selected projects
 
@@ -33,11 +35,12 @@ IBDE and Decision Intelligence Platform are separate projects: the first uses Fa
 
 ## Technical focus
 
-- **Programming:** Python, C++, and SQL.
-- **Data & ML:** NumPy, pandas, scikit-learn, TensorFlow/Keras, Matplotlib, and Seaborn.
-- **Computer vision:** OpenCV and pretrained YOLOv8 detection.
-- **Applications:** FastAPI, Flask, Streamlit, MySQL, Jinja2, HTML/CSS, and JavaScript.
-- **Version control:** Git and GitHub.
+- **Current programming languages:** Python and C++.
+- **Foundations I am building:** data structures, algorithms, object-oriented programming, and problem solving.
+- **AI work in my repositories:** machine-learning experiments, TensorFlow CNNs, pretrained vehicle detection, and Python application backends.
+- **Next learning priorities:** stronger ML fundamentals, reliable model evaluation, model serving, and deployment.
+
+The frameworks and interface technologies listed in each project README describe that project's components. They are not a claim that I have mastered every technology in the repository.
 
 ## How to explore my work
 

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Krishna Agrawal</title>
-  <desc id="desc">Python and C++. Data analysis, machine learning, and practical applications.</desc>
+  <desc id="desc">Aspiring AI Engineer. First-year BTech AI student at SRM University–AP. Python and C++.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1428"/>
@@ -11,8 +11,8 @@
   <path d="M850 0v300M950 0v300M1050 0v300M1150 0v300M800 50h400M800 150h400M800 250h400" stroke="#9adad7" stroke-opacity=".08"/>
   <circle cx="1080" cy="95" r="145" fill="none" stroke="#5eead4" stroke-opacity=".11" stroke-width="30"/>
   <rect x="60" y="56" width="40" height="5" rx="2.5" fill="#5eead4"/>
-  <text x="60" y="112" fill="#91aebc" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">CODE · DATA · APPLICATIONS</text>
+  <text x="60" y="112" fill="#91aebc" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">BTECH AI · SRM UNIVERSITY–AP</text>
   <text x="60" y="178" fill="#f5f8fc" font-family="Segoe UI,Arial,sans-serif" font-size="52" font-weight="700">Krishna Agrawal</text>
-  <text x="62" y="222" fill="#c7d7e2" font-family="Segoe UI,Arial,sans-serif" font-size="22">Python &amp; C++ · Data Analysis · Machine Learning</text>
+  <text x="62" y="222" fill="#c7d7e2" font-family="Segoe UI,Arial,sans-serif" font-size="22">Python &amp; C++ · Aspiring AI Engineer</text>
   <text x="985" y="194" fill="#5eead4" opacity=".65" font-family="Consolas,monospace" font-size="82">{ }</text>
 </svg>
