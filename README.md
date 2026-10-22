@@ -20,6 +20,7 @@ My goal is to become an **AI engineer**: understand how models work, build appli
 
 | Project | What I built | Explore |
 | :--- | :--- | :--- |
+| **EEG Lab · Brainwave Authentication** | EEG preprocessing, signal-quality review, and statistical features; authentication training remains data-limited | [Source & walkthrough](https://github.com/krishna-ai-cpp/EEG-Brainwave-Authentication) |
 | **Fog Visibility & Vehicle Detection** | A Streamlit workflow for image/video vehicle detection, image-feature scoring, and a visibility-classification experiment | [Source & walkthrough](https://github.com/krishna-ai-cpp/Fog-detection-system) |
 | **IBDE · Intelligent Business Decision Engine** | A FastAPI application connecting CSV upload, preprocessing, ML workflows, visualizations, and a browser dashboard | [Source & architecture](https://github.com/krishna-ai-cpp/IBDE-Intelligent---Business--Decision--Engine-) |
 | **Decision Intelligence Platform** | A Flask/MySQL application that guides a dataset through preparation, model comparison, decision-support views, and reporting | [Source & setup](https://github.com/krishna-ai-cpp/Decision-Intelligence-Platform) |
